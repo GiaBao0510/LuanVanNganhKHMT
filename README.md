@@ -5,6 +5,6 @@
 **Công nghệ - Ngôn ngữ lập trình:**
 - **Font-End:** Dart, Flutter, VueJS.
 - **Back-End:** c#.
-- **Database:** MySQL.
+- **Database:** MySQL, MongoDB.
 ---
 ![](https://media1.tenor.com/m/2yyuDK4VrukAAAAC/vote-we-the-people.gif)
